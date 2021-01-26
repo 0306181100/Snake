@@ -1,0 +1,5 @@
+﻿  console.cpp
+  main.cpp
+E:\project\ConsoleApplication1\ConsoleApplication1\HoaQua.h(15,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  ConsoleApplication1.vcxproj -> E:\project\ConsoleApplication1\Debug\snake.exe
